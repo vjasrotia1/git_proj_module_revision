@@ -7,5 +7,9 @@ public static void main(String args[]){
     roger binny
     rafeal nadal
     novak djokovic
+    bermuda triangle
+    miroslava vavrinec
+    lenny federer
+    
 }
 }

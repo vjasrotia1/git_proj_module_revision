@@ -1,0 +1,15 @@
+class Calculator{
+private int ans;
+
+public int add(int a){
+    ans+=a;
+    return ans;
+}
+
+publicnt subtract(int b){
+    ans=ans-=b;
+    return ans;
+}
+
+
+}
