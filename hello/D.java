@@ -1,4 +1,4 @@
 class D{
-    public int a=15;
-    public int b=20;
+    public int a=10;
+    public int b=25;
 }
