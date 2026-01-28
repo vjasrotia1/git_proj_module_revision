@@ -1,4 +1,4 @@
 class b{
-    private int bb;
+    public int x=20;;
     
 }
